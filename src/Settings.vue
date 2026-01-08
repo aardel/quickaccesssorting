@@ -34,7 +34,7 @@
 
 <script>
 
-import NcSelect from '@nextcloud/vue/dist/Components/NcSelect'
+import NcSelect from '@nextcloud/vue/dist/Components/NcSelect.js'
 
 export default {
 	name: 'Settings',

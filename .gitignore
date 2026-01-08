@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Build artifacts
+.DS_Store
+*.swp
+*.swo
+*~
+*.LICENSE.txt
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
